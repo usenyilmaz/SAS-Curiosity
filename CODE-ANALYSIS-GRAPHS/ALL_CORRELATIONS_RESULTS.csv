@@ -1,0 +1,46 @@
+﻿Label,Correlation_r,P_Value,Sample_Size,Cryptocurrency
+Fed Funds Rate (1M Lag),0.44973,<.0001,98,BTC
+M2 Money Supply (1M Lag),0.24205,0.0163,98,BTC
+Dollar Index - DXY (1M Lag),0.27998,0.0052,98,BTC
+Fed Funds Rate (1M Lag),0.24129,0.0442,70,ETH
+M2 Money Supply (1M Lag),0.10458,0.3889,70,ETH
+Dollar Index - DXY (1M Lag),-0.61843,<.0001,70,ETH
+Fed Funds Rate (1M Lag),0.58359,<.0001,94,XRP
+M2 Money Supply (1M Lag),0.14117,0.1747,94,XRP
+Dollar Index - DXY (1M Lag),0.16898,0.1035,94,XRP
+Fed Funds Rate (1M Lag),0.58359,<.0001,94,XLM
+M2 Money Supply (1M Lag),0.14117,0.1747,94,XLM
+Dollar Index - DXY (1M Lag),0.16898,0.1035,94,XLM
+Fed Funds Rate (1M Lag),-0.45725,0.0012,47,BNB
+M2 Money Supply (1M Lag),0.18031,0.2252,47,BNB
+Dollar Index - DXY (1M Lag),-0.22913,0.1213,47,BNB
+Fed Funds Rate (1M Lag),-0.52811,0.0002,44,ADA
+M2 Money Supply (1M Lag),-0.07813,0.6142,44,ADA
+Dollar Index - DXY (1M Lag),-0.79029,<.0001,44,ADA
+Fed Funds Rate (1M Lag),-0.76853,<.0001,45,LINK
+M2 Money Supply (1M Lag),0.33996,0.0223,45,LINK
+Dollar Index - DXY (1M Lag),-0.24527,0.1044,45,LINK
+Fed Funds Rate (1M Lag),-0.42341,0.0278,27,ATOM
+M2 Money Supply (1M Lag),-0.22603,0.2569,27,ATOM
+Dollar Index - DXY (1M Lag),-0.79922,<.0001,27,ATOM
+Fed Funds Rate (1M Lag),-0.70649,<.0001,30,CRO
+M2 Money Supply (1M Lag),0.15562,0.4116,30,CRO
+Dollar Index - DXY (1M Lag),-0.50216,0.0047,30,CRO
+Fed Funds Rate (1M Lag),0.28543,0.0064,90,DOGE
+M2 Money Supply (1M Lag),0.18913,0.0742,90,DOGE
+Dollar Index - DXY (1M Lag),-0.07900,0.4592,90,DOGE
+Fed Funds Rate (1M Lag),0.28543,0.0064,90,TRX
+M2 Money Supply (1M Lag),0.18913,0.0742,90,TRX
+Dollar Index - DXY (1M Lag),-0.07900,0.4592,90,TRX
+Fed Funds Rate (1M Lag),0.23317,0.1147,47,EOS
+M2 Money Supply (1M Lag),-0.20040,0.1768,47,EOS
+Dollar Index - DXY (1M Lag),-0.23552,0.1110,47,EOS
+Fed Funds Rate (1M Lag),-0.05353,0.7178,48,IOTA
+M2 Money Supply (1M Lag),-0.29873,0.0392,48,IOTA
+Dollar Index - DXY (1M Lag),-0.66815,<.0001,48,IOTA
+Fed Funds Rate (1M Lag),0.52525,<.0001,98,LTC
+M2 Money Supply (1M Lag),0.14787,0.1462,98,LTC
+Dollar Index - DXY (1M Lag),0.08907,0.3831,98,LTC
+Fed Funds Rate (1M Lag),0.50902,<.0001,85,XMR
+M2 Money Supply (1M Lag),0.14043,0.1999,85,XMR
+Dollar Index - DXY (1M Lag),-0.02947,0.7889,85,XMR
